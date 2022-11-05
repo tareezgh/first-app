@@ -62,6 +62,7 @@ const Home = () => {
           onChange={(e) => searchItems(e.target.value)}
         />
 
+
         <button className="searchBtn">Search</button>
 
         <div className="row">
